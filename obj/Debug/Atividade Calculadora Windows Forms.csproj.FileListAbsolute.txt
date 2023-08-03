@@ -1,0 +1,11 @@
+\\172.16.0.2\c$\TI\TI\Eduardo\PROGRAMAS\Estudos C# e .NET\Atividade Calculadora Windows Forms\Atividade Calculadora Windows Forms\bin\Debug\Atividade Calculadora Windows Forms.exe.config
+\\172.16.0.2\c$\TI\TI\Eduardo\PROGRAMAS\Estudos C# e .NET\Atividade Calculadora Windows Forms\Atividade Calculadora Windows Forms\bin\Debug\Atividade Calculadora Windows Forms.exe
+\\172.16.0.2\c$\TI\TI\Eduardo\PROGRAMAS\Estudos C# e .NET\Atividade Calculadora Windows Forms\Atividade Calculadora Windows Forms\bin\Debug\Atividade Calculadora Windows Forms.pdb
+\\172.16.0.2\c$\TI\TI\Eduardo\PROGRAMAS\Estudos C# e .NET\Atividade Calculadora Windows Forms\Atividade Calculadora Windows Forms\obj\Debug\Atividade Calculadora Windows Forms.csproj.AssemblyReference.cache
+\\172.16.0.2\c$\TI\TI\Eduardo\PROGRAMAS\Estudos C# e .NET\Atividade Calculadora Windows Forms\Atividade Calculadora Windows Forms\obj\Debug\Atividade Calculadora Windows Forms.csproj.SuggestedBindingRedirects.cache
+\\172.16.0.2\c$\TI\TI\Eduardo\PROGRAMAS\Estudos C# e .NET\Atividade Calculadora Windows Forms\Atividade Calculadora Windows Forms\obj\Debug\Atividade_Calculadora_Windows_Forms.Form1.resources
+\\172.16.0.2\c$\TI\TI\Eduardo\PROGRAMAS\Estudos C# e .NET\Atividade Calculadora Windows Forms\Atividade Calculadora Windows Forms\obj\Debug\Atividade_Calculadora_Windows_Forms.Properties.Resources.resources
+\\172.16.0.2\c$\TI\TI\Eduardo\PROGRAMAS\Estudos C# e .NET\Atividade Calculadora Windows Forms\Atividade Calculadora Windows Forms\obj\Debug\Atividade Calculadora Windows Forms.csproj.GenerateResource.cache
+\\172.16.0.2\c$\TI\TI\Eduardo\PROGRAMAS\Estudos C# e .NET\Atividade Calculadora Windows Forms\Atividade Calculadora Windows Forms\obj\Debug\Atividade Calculadora Windows Forms.csproj.CoreCompileInputs.cache
+\\172.16.0.2\c$\TI\TI\Eduardo\PROGRAMAS\Estudos C# e .NET\Atividade Calculadora Windows Forms\Atividade Calculadora Windows Forms\obj\Debug\Atividade Calculadora Windows Forms.exe
+\\172.16.0.2\c$\TI\TI\Eduardo\PROGRAMAS\Estudos C# e .NET\Atividade Calculadora Windows Forms\Atividade Calculadora Windows Forms\obj\Debug\Atividade Calculadora Windows Forms.pdb
